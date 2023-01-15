@@ -1,0 +1,6 @@
+﻿  UnityTestTask.cpp
+C:\Users\днс\source\repos\UnityTestTask\UnityTestTask\UnityTestTask.cpp(19,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\днс\source\repos\UnityTestTask\UnityTestTask\UnityTestTask.cpp(25,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\днс\source\repos\UnityTestTask\UnityTestTask\UnityTestTask.cpp(30,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\днс\source\repos\UnityTestTask\UnityTestTask\UnityTestTask.cpp(39,27): warning C4018: <: несоответствие типов со знаком и без знака
+  UnityTestTask.vcxproj -> C:\Users\днс\source\repos\UnityTestTask\Debug\UnityTestTask.exe
